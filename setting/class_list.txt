@@ -1,0 +1,200 @@
+에어프라이어|AirFryer
+밀폐용기|AirtightContainer
+사과|Apple
+배낭|Backpack
+바나나|Banana
+일회용 반창고|BandAid
+욕실매트|BathMat
+두부|BeanCurd
+맥주병|BeerBottle
+피망|BellPepper
+자전거|Bicycle
+믹서기|Blender
+책|Book
+브로콜리|Broccoli
+빗자루|Broom
+붓|Brush
+양동이|Bucket
+양배추|Cabbage
+계산기|Calculator
+카메라|Camera
+캔|Can
+가디건|Cardigan
+당근|Carrot
+자동차 거울(사이드미러)|CarSideMirror
+차바퀴|CarWheel
+시리얼|Cereal
+의자|Chair
+치즈|Cheese
+도마|ChoppingBoard
+일반담배|Cigarettes
+시계(탁상용, 벽걸이)|Clock
+코트|Coat
+컴퓨터 키보드|ComputerKeyboard
+컴퓨터 마우스|ComputerMouse
+식용유|CookingOil
+옥수수|Corn
+오이|Cucumber
+호박|Cucurbita
+탁상용 스탠드|DeskLamp
+데스크톱 컴퓨터|DesktopComputer
+디지털도어락|DigitalDoorlock
+식탁|DiningTable
+식기건조대|DishDrainer
+주방세제|DishSoap
+일회용 마스크|DisposableMask
+인형|Doll
+방문손잡이|DoorHandle
+아령|Dumbbell
+선풍기|ElectricFan
+전기주전자|ElectricKettle
+전기밥솥|ElectricRiceCooker
+전기 스위치|ElectricSwitch
+종이봉투|Envelope
+에스프레소머신|EspressoMaker
+안대|Eyepatch
+얼굴파우더|FacePowder
+부채|Fan
+손전등|Flashlight
+화분|FlowerPot
+형광등|FluorescentLamp
+포크|Fork
+액자|Frame
+후라이팬|Frypan
+두꺼비집|FuseBox
+머리띠|HairBand
+머리빗|HairBrushComb
+헤어 드라이어|HairDryer
+헤어 스프레이|HairSpray
+햄버거|Hamburger
+망치|Hammer
+핸드백|Handbag
+옷걸이|Hanger
+손수건|Hankerchief
+모자|Hat
+헤드폰|Headphone
+핫도그|Hotdog
+모래시계|Hourglass
+화투패|HwatuCard
+아이스크림|Icecream
+즉석밥|InstantRice
+다리미|Iron
+저그|Jug
+케찹|Ketchup
+각티슈|Kleenex
+주방용 칼|Knife
+국자|Ladle
+노트북|LaptopComputer
+세탁세제|LaundryDetergent
+레몬|Lemon
+덩어리빵|Loaf
+로퍼|Loafer
+로션|Lotion
+마카롱|Macaron
+돋보기|Magnifier
+메일백, 포스트백(옆으로 매는 가방)|Mailbag
+우편함|Mailbox
+맨홀뚜껑|ManholeCover
+마이크|Microphone
+전자레인지|Microwave
+우유|Milk
+벙어리장갑|Mitten
+믹싱볼|MixingBowl
+휴대전화|MobilePhone
+모니터|Monitor
+막대걸레|Mop
+모기약|Mosquitocide
+스쿠터|MotorScooter
+목도리|Muffler
+머그컵|Mug
+버섯|Mushroom
+원피스|One-piece
+오렌지|Orange
+바지|Pants
+종이백|PaperBag
+노트|PaperNotebook
+공원 벤치|ParkBench
+펜|Pen
+필통|PencilCase
+연필깍이|PencilSharpener
+저금통|PennyBank
+향수|Perfume
+알약통|PillBottle
+베개|Pillow
+피자|Pizza
+접시|Plate
+뚫어뻥, 플런저|Plunger
+막대기, 기둥, 장대|Pole
+음료수병|PopBottle
+막대 아이스크림|Popsicle
+냄비|Pot
+감자|Potato
+프린터기|Printer
+빔프로젝터|Projector
+펀치|Puncher
+라면|Ramen
+면도기|Razor
+리모컨|RemoteControl
+밥주걱|RiceScoop
+밥국그릇|RiceSoupBowl
+지우개|RubberEraser
+자|Ruler
+런닝화|RunningShoe
+소금통|SaltShaker
+샌들|Sandal
+저울|Scale
+가위|Scissors
+수세미|ScouringPad
+나사 드라이버|Screwdriver
+참기름|SesameOil
+하수구 유가|SewerDrainage
+샴푸|Shampoo
+쇼핑 카트|ShoppingCart
+샤워기헤드|ShowerHead
+스커트|Skirt
+슬리퍼|Slippers
+비누|Soap
+양말|Sock
+뒤집개|Spatula
+스피커|Speaker
+숟가락|Spoon
+스포츠볼|SportsBall
+분무기|Sprayer
+스테플러|Stapler
+스토브|Stove
+여행용가방|Suitcase
+선글라스|Sunglasses
+자외선 차단제|Sunscreen
+보조배터리|SupplementaryBattery
+맨투맨/스웨트셔츠|Sweatshirt
+태블릿|TabletPC
+테이프|Tape
+찻잔|Teacup
+찻주전자|Teapot
+텔레비전|Television
+체온계|Thermometer
+넥타이|Tie
+토스터|Toaster
+변기|Toilet
+두루마리 휴지|ToiletTissue
+토마토|Tomato
+공구 키트|Toolkit
+칫솔|Toothbrush
+치약|Toothpaste
+수건|Towel
+쟁반|Tray
+티셔츠|T-shirt
+우산|Umbrella
+usb메모리|USB
+꽃병|Vase
+지갑|Wallet
+세면대|Washbasin
+쓰레기통(휴지통)|Wastebin
+시계|Watch
+물병|WaterBottle
+정수기|WaterPurifier
+물티슈|WetTissue
+거품기|Whisk
+와인병|WineBottle
+포도주잔|WineGlass
+웍|Wok
